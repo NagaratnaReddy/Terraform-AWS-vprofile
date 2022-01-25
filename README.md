@@ -1,2 +1,2 @@
-# Terraform-AWS-vprofile
-Imarali-Terrform-Project
+# Terraform code for AWS vprofile project
+
