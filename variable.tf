@@ -66,31 +66,31 @@ default = "ap-south-1c"
 }
 
 variable "VPC-CIDR" {
-default = "17.21.0.0/16"
+default = "172.21.0.0/16"
 }
 
 variable "PubSub1-CIDR" {
-default = "17.21.1.0/24"
+default = "172.21.1.0/24"
 }
 
 variable "PubSub2-CIDR" {
-default = "17.21.2.0/24"
+default = "172.21.2.0/24"
 }
 
 variable "PubSub3-CIDR" {
-default = "17.21.3.0/24"
+default = "172.21.3.0/24"
 }
 
 variable "PrivSub1-CIDR" {
-default = "17.21.4.0/24"
+default = "172.21.4.0/24"
 }
 
 variable "PrivSub2-CIDR" {
-default = "17.21.5.0/24"
+default = "172.21.5.0/24"
 }
 
 variable "PrivSub3-CIDR" {
-default = "17.21.6.0/24"
+default = "172.21.6.0/24"
 }
 
 
